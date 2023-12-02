@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
 
-![Banner Image](link_to_banner_image.png)
+![Header](./pexels-pixabay-163064.jpg)
 
 I'm a passionate Python developer with a focus on machine learning, natural language processing, and neural networks. Welcome to my GitHub profile.
 
