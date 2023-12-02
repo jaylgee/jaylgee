@@ -31,7 +31,7 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 - Exploring advanced neural network architectures
 - Improving natural language processing techniques
-- [Insert any other areas of interest]
+- Linear Algebra - Foundations to Frontiers, EdX MOOC, University of Texas
 
 ## 📚 Skills
 
