@@ -12,7 +12,7 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 ## 🚀 Projects
 
-### Project 1: [Project Name 1](link_to_project_1)
+### Project 1: (https://github.com/jaylgee/Genetic-algorithm-for-decryption)
 - [![GitHub stars](link_to_project_1_stars)](link_to_project_1_stars) Stars
 - Short description of the project and its significance.
 
