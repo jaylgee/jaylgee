@@ -35,9 +35,9 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 ## 📚 Skills
 
-- **Programming Languages:** Python, [Other Languages]
+- **Programming Languages:** Python, HTML, CSS
 - **Frameworks:** TensorFlow, PyTorch, Scikit-Learn
-- **Tools:** Jupyter, Git, Docker
+- **Tools:** PyCharm, Google Colab
 
 ## 📈 GitHub Stats
 
