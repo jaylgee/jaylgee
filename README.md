@@ -7,7 +7,7 @@
 - 🤔 I’m looking for tips with preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
 
-![Header](./pexels-pixabay-163064.jpg)
+![Header](https://github.com/jaylgee/CFG-CVs-and-Applications/blob/main/pexels-pixabay-417458.jpg)
 
 I'm a passionate Python developer with a focus on machine learning, natural language processing, and neural networks. Welcome to my GitHub profile.
 
