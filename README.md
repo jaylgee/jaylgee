@@ -44,14 +44,8 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaylgee&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylgee&langs_count=5&theme=tokyonight)]()
 
-
 ## 📫 Let's Connect
 
 - YouTube: [@jaylgee7750](https://www.youtube.com/channel/UCz6dYfh9rdVEYxD4CneSb2A)
-
-## 🎯 Fun Facts
-
-- Did you know? [Interesting fact about yourself or a programming-related fact]
-- Favorite coding snack: Peanut butter on toast
 
 Thanks for stopping by! Happy coding! 🚀
