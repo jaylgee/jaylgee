@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on a Python machine learning project. 
 - 🌱 I’m learning about object recognition.
-- 🤔 I’m looking for tips with preparing for tech interviews.
+- 🤔 I’m looking for tips on preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
-
 
 I'm a passionate Python developer with a focus on machine learning, natural language processing, and neural networks. Welcome to my GitHub profile.
 
