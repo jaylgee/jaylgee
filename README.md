@@ -13,13 +13,11 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 ## 🚀 Projects
 
 ### Project 1: (https://github.com/jaylgee/Genetic-algorithm-for-decryption)
-- [![GitHub stars](link_to_project_1_stars)](link_to_project_1_stars) Stars
-- Short description of the project and its significance.
+- Genetic algorithm for decryption. Developed for Lazy Programmer Udemy course.
 
 [![Project 1 Screenshot](link_to_project_1_screenshot.png)](link_to_project_1)
 
 ### Project 2: [Project Name 2](link_to_project_2)
-- [![GitHub stars](link_to_project_2_stars)](link_to_project_2_stars) Stars
 - Short description of the project and its significance.
 
 [![Project 2 Screenshot](link_to_project_2_screenshot.png)](link_to_project_2)
