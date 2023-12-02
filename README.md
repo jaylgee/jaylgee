@@ -20,7 +20,7 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 ### Project 2: NLP Web Scraper (https://github.com/jaylgee/NLP-Web-Scraper)
 - Web scraper developed with Beautiful Soup
 
-[![Project 2 Screenshot](link_to_project_2_screenshot.png)](link_to_project_2)
+[![Project 2 Screenshot](https://github.com/jaylgee/NLP-Web-Scraper/blob/main/WebScraperScreenshot.png)](link_to_project_2)
 
 ## 🌱 Currently Learning
 
