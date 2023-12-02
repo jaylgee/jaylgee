@@ -35,8 +35,8 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 ## 📚 Skills
 
-- **Programming Languages:** Python, HTML, CSS
-- **Frameworks:** TensorFlow, PyTorch, Scikit-Learn
+- **Programming Languages:** Beginner: Python, HTML, CSS, SQL
+- **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Flask
 - **Tools:** PyCharm, Google Colab
 
 ## 📈 GitHub Stats
@@ -47,13 +47,11 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin_profile)
-- Twitter: [Your Twitter Handle](link_to_twitter_handle)
-- Blog: [Your Blog](link_to_blog)
+- YouTube: [@jaylgee7750](https://www.youtube.com/channel/UCz6dYfh9rdVEYxD4CneSb2A)
 
 ## 🎯 Fun Facts
 
 - Did you know? [Interesting fact about yourself or a programming-related fact]
-- Favorite coding snack: [Your favorite coding snack]
+- Favorite coding snack: Peanut butter on toast
 
-Thanks for stopping by! Feel free to explore my projects and connect with me. Happy coding! 🚀
+Thanks for stopping by! Happy coding! 🚀
