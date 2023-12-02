@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Header](https://github.com/jaylgee/CFG-CVs-and-Applications/blob/main/header%20lights.png)
 **About Me** 
 
 - 🔭 I’m currently working on a Python machine learning project. 
@@ -7,7 +8,6 @@
 - 🤔 I’m looking for tips with preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
 
-![Header](https://github.com/jaylgee/CFG-CVs-and-Applications/blob/main/pexels-pixabay-417458.jpg)
 
 I'm a passionate Python developer with a focus on machine learning, natural language processing, and neural networks. Welcome to my GitHub profile.
 
@@ -24,8 +24,6 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 - Short description of the project and its significance.
 
 [![Project 2 Screenshot](link_to_project_2_screenshot.png)](link_to_project_2)
-
-...
 
 ## 🌱 Currently Learning
 
