@@ -2,9 +2,9 @@
 
 **About Me** 
 
-- 🔭 I’m currently working on a Python machine learning challenge. 
-- 🌱 I’m currently learning about object recognition.
-- 🤔 I’m looking for help with preparing for tech interviews.
+- 🔭 I’m currently working on a Python machine learning project. 
+- 🌱 I’m learning about object recognition.
+- 🤔 I’m looking for tips with preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
 
 ![Header](./pexels-pixabay-163064.jpg)
