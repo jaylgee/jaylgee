@@ -13,9 +13,9 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 ## 🚀 Projects
 
 ### Project 1: Genetic Algorithm (https://github.com/jaylgee/Genetic-algorithm-for-decryption)
-- Genetic algorithm for decryption. Developed for Lazy Programmer Udemy course.
+- Genetic algorithm for decryption. Developed as an exercise from the Lazy Programmer Udemy course.
 
-[![Project 1 Screenshot](link_to_project_1_screenshot.png)](link_to_project_1)
+[![Project 1 Screenshot](https://github.com/jaylgee/Genetic-algorithm-for-decryption/blob/main/GeneticAlgorithmScreenshot.png)](link_to_project_1)
 
 ### Project 2: NLP Web Scraper (https://github.com/jaylgee/NLP-Web-Scraper)
 - Web scraper developed with Beautiful Soup
