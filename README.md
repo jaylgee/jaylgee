@@ -2,8 +2,8 @@
 
 **About Me** 
 
-- 🔭 I’m currently working on a Python machine learning challenge using object recognition. 
-- 🌱 I’m currently learning about reverse engineering in Python.
+- 🔭 I’m currently working on a Python machine learning challenge. 
+- 🌱 I’m currently learning about object recognition.
 - 🤔 I’m looking for help with preparing for tech interviews.
 - 💬 Ask me about getting started with coding.
 
@@ -41,7 +41,9 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](link_to_github_stats_image.png)]([link_to_your_github_profile](https://github.com/jaylgee))
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaylgee&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylgee&langs_count=5&theme=tokyonight)]()
+
 
 ## 📫 Let's Connect
 
