@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 ![Header](https://github.com/jaylgee/CFG-CVs-and-Applications/blob/main/header%20lights.png)
 **About Me** 
