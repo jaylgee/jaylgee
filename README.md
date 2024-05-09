@@ -3,11 +3,9 @@
 ![Header](https://github.com/jaylgee/CFG-CVs-and-Applications/blob/main/header%20lights.png)
 **About Me** 
 
-- I’m currently working on a Python machine learning project. 
-- I’m learning about object recognition.
-- Ask me about getting started with coding.
-
-I'm a passionate Python developer with a focus on machine learning, natural language processing, and neural networks. Welcome to my GitHub profile.
+- Currently upskilling as a software engineer.
+- Learning to write industry-standard Python, JavaScript, SQL and algorithms through fully-funded sponsored-place on a Software coding course.
+- Experience in Python, Javascript, SQL, databases, git, machine learning, natural langugage processing, algorithms, HTML, CSS, Flask, and AWS.
 
 ## Projects
 
@@ -31,7 +29,7 @@ I'm a passionate Python developer with a focus on machine learning, natural lang
 
 - **Programming Languages:** Beginner: Python, JavaScript, HTML, CSS, SQL
 - **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Flask
-- **Tools:** PyCharm, Google Colab
+- **Tools:** PyCharm, Google Colab, Visual Studio Code, GitHub, GitLab
 
 ## GitHub Stats
 
