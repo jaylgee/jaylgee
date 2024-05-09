@@ -1,6 +1,6 @@
 ### Hi there 
 
-**About Me** 
+## Let me introduce myself...
 
 - Currently upskilling as a software engineer.
 - Learning to write industry-standard Python, JavaScript, SQL and algorithms through fully-funded sponsored-place on a Software coding course.
