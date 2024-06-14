@@ -1,4 +1,4 @@
-### Hi there  
+### Hi 
 
 ## Let me introduce myself...
 
