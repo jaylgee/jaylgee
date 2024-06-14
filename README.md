@@ -2,9 +2,9 @@
 
 ## Let me introduce myself...
 
-- Currently upskilling as a software engineer.
+- Currently reskilling as a software engineer.
 - Learning to write industry-standard Python, JavaScript, SQL and algorithms through fully funded and sponsored place on a Software coding course.
-- Experience in Python, Javascript, SQL, databases, git, machine learning, natural langugage processing, algorithms, HTML, CSS, Flask, and AWS.
+- Experience in Python, Javascript, SQL, CI/CD, machine learning, natural langugage processing, algorithms, HTML, CSS, Flask, and AWS.
 
 ## Projects
 
